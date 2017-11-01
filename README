@@ -1,1 +1,1 @@
-•	A Microservice based Spring-Boot RestFull API, that can accept a weather reading for a city and store it into the databases.
+A Microservice based Spring-Boot RestFull API, that can accept a weather reading for a city and store it into the databases.
